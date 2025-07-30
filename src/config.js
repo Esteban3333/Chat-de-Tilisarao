@@ -1,2 +1,2 @@
 export const PORT = process.env.PORT || 3001;
-export const DATABASE_URL = process.env.DATABASE_URL || "postgresql://postgres:1212@localhost:5432/chat_app";
+export const DATABASE_URL = process.env.DATABASE_URL || "postgresql://db_jgvs05fjj4xn:ZccWVc0tPojeapnhllj77grO@up-de-fra1-postgresql-1.db.run-on-seenode.com:11550/db_jgvs05fjj4xn";
